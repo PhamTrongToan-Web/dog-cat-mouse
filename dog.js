@@ -1,4 +1,6 @@
-function Dog(){
+function Dog(type, color){
+    this.type = type;
+    this.color = color;
     this.stomach = [];
 }
 
