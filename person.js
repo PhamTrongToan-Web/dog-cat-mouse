@@ -1,6 +1,7 @@
-function Person(name, age){
-    this.name = age;
+function Person(name, age, height){
+    this.name = name;
     this.age = age;
+    this.height = height;
     this.hungry = false;
 }
 
