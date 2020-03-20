@@ -7,3 +7,4 @@ var tom = new Cat();
 myDog.eat(tom);
 
 // console.log(myDog);
+console.log(myDog, tom);
